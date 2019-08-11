@@ -2,15 +2,15 @@
 
 * [软件架构师技术栈](README.md)
 
-## 系统架构能力
+## 系统架构能力 <a id="the-capability-of-system-architecture"></a>
 
-* [1. 基本理论](xi-tong-jia-gou-neng-li/1.-ji-ben-li-lun/README.md)
-  * [软件设计的七个基本原则](xi-tong-jia-gou-neng-li/1.-ji-ben-li-lun/ruan-jian-she-ji-de-qi-ge-ji-ben-yuan-ze.md)
-  * [分布式系统的CAP定理](xi-tong-jia-gou-neng-li/1.-ji-ben-li-lun/fen-bu-shi-xi-tong-de-cap-ding-li.md)
-  * [分布式系统的BASE原则](xi-tong-jia-gou-neng-li/1.-ji-ben-li-lun/fen-bu-shi-xi-tong-de-base-yuan-ze.md)
-* [2. 协议设计](xi-tong-jia-gou-neng-li/untitled-1.md)
-* [3. 接入层架构设计](xi-tong-jia-gou-neng-li/3.-jie-ru-ceng-jia-gou-she-ji.md)
-* [4. 逻辑层架构设计](xi-tong-jia-gou-neng-li/4.-luo-ji-ceng-jia-gou-she-ji.md)
+* [1. 基本理论](the-capability-of-system-architecture/1.-ji-ben-li-lun/README.md)
+  * [软件设计的七个基本原则](the-capability-of-system-architecture/1.-ji-ben-li-lun/ruan-jian-she-ji-de-qi-ge-ji-ben-yuan-ze.md)
+  * [分布式系统的CAP定理](the-capability-of-system-architecture/1.-ji-ben-li-lun/fen-bu-shi-xi-tong-de-cap-ding-li.md)
+  * [分布式系统的BASE原则](the-capability-of-system-architecture/1.-ji-ben-li-lun/fen-bu-shi-xi-tong-de-base-yuan-ze.md)
+* [2. 协议设计](the-capability-of-system-architecture/untitled-1.md)
+* [3. 接入层架构设计](the-capability-of-system-architecture/3.-jie-ru-ceng-jia-gou-she-ji.md)
+* [4. 逻辑层架构设计](the-capability-of-system-architecture/4.-luo-ji-ceng-jia-gou-she-ji.md)
 
 ## 工程架构能力
 
