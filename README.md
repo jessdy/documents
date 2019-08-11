@@ -4,8 +4,6 @@ description: 深入浅出的软件架构技术知识点
 
 # 软件架构师技术栈
 
-![&#x8F6F;&#x4EF6;&#x67B6;&#x6784;&#x5E08;&#x6280;&#x80FD;](.gitbook/assets/5d4e306be4b09965fabdc48c.png)
-
 从实用角度出发，将软件架构师的技术栈分为四个方向：
 
 * 系统架构能力
@@ -34,6 +32,12 @@ description: 深入浅出的软件架构技术知识点
   * [创新能力](soft-skill/4.-chuang-xin-neng-li.md)
   * [文档阅读能力](soft-skill/5.-wen-dang-yue-du-neng-li.md)
   * [总结归纳能力](soft-skill/6.-zong-jie-gui-na-neng-li.md)
+
+### 个人能力有限，欢迎大家一起投稿编写
+
+
+
+![&#x8F6F;&#x4EF6;&#x67B6;&#x6784;&#x5E08;&#x6280;&#x80FD;](.gitbook/assets/5d4e306be4b09965fabdc48c.png)
 
 
 
