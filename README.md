@@ -13,7 +13,7 @@ description: 深入浅出的软件架构技术知识点
   * [逻辑层架构设计](the-capability-of-system-architecture/4.-luo-ji-ceng-jia-gou-she-ji.md)
 * 工程架构能力
   * [开发语言](the-capability-of-engineering-architecture/untitled.md)
-  * [设计模式](the-capability-of-engineering-architecture/2.-she-ji-mo-shi.md)
+  * [设计模式](the-capability-of-engineering-architecture/2.-she-ji-mo-shi/)
   * [数据结构与算法](the-capability-of-engineering-architecture/3.-shu-ju-jie-gou-yu-suan-fa.md)
   * [开发工具](the-capability-of-engineering-architecture/4.-kai-fa-gong-ju.md)
   * [调试工具](the-capability-of-engineering-architecture/5.-tiao-shi-gong-ju.md)
@@ -35,9 +35,7 @@ description: 深入浅出的软件架构技术知识点
 
 ### 个人能力有限，欢迎大家一起投稿编写
 
-
-
-![&#x8F6F;&#x4EF6;&#x67B6;&#x6784;&#x5E08;&#x6280;&#x80FD;](.gitbook/assets/5d4e306be4b09965fabdc48c.png)
+![](.gitbook/assets/5d4e306be4b09965fabdc48c-1.png)
 
 
 
