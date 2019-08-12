@@ -17,6 +17,7 @@
 * [1. 开发语言](the-capability-of-engineering-architecture/untitled.md)
 * [2. 设计模式](the-capability-of-engineering-architecture/2.-she-ji-mo-shi/README.md)
   * [创建型模式](the-capability-of-engineering-architecture/2.-she-ji-mo-shi/chuang-jian-xing-mo-shi.md)
+  * [结构型模式](the-capability-of-engineering-architecture/2.-she-ji-mo-shi/jie-gou-xing-mo-shi.md)
 * [3. 数据结构与算法](the-capability-of-engineering-architecture/3.-shu-ju-jie-gou-yu-suan-fa.md)
 * [4. 开发工具](the-capability-of-engineering-architecture/4.-kai-fa-gong-ju.md)
 * [5. 调试工具](the-capability-of-engineering-architecture/5.-tiao-shi-gong-ju.md)
