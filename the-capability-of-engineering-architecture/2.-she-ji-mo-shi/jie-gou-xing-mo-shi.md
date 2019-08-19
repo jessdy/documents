@@ -64,7 +64,7 @@ description: 用于描述如何将类或对象按某种布局组成更大的结�
 
 当需要增加或删除子系统时，虽然不用修改客户类，但是需要改变Facade类，这就有悖于开闭原则，所以改进如下：
 
-![Abstract Facade Pattern Class Diagram](../../.gitbook/assets/image%20%2812%29.png)
+![Abstract Facade Pattern Class Diagram](../../.gitbook/assets/image%20%2813%29.png)
 
 
 

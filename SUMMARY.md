@@ -9,6 +9,7 @@
   * [分布式系统的CAP定理](the-capability-of-system-architecture/1.-ji-ben-li-lun/fen-bu-shi-xi-tong-de-cap-ding-li.md)
   * [分布式系统的BASE原则](the-capability-of-system-architecture/1.-ji-ben-li-lun/fen-bu-shi-xi-tong-de-base-yuan-ze.md)
   * [传统事务的ACID](the-capability-of-system-architecture/1.-ji-ben-li-lun/chuan-tong-shi-wu-de-acid.md)
+  * [Stacey 矩阵](the-capability-of-system-architecture/1.-ji-ben-li-lun/stacey-ju-zhen.md)
 * [2. 协议设计](the-capability-of-system-architecture/untitled-1.md)
 * [3. 接入层架构设计](the-capability-of-system-architecture/3.-jie-ru-ceng-jia-gou-she-ji.md)
 * [4. 逻辑层架构设计](the-capability-of-system-architecture/4.-luo-ji-ceng-jia-gou-she-ji.md)
