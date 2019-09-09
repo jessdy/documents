@@ -4,7 +4,7 @@ description: Stacey矩阵简明地阐述了不同的场景下应当使用何种�
 
 # Stacey 矩阵
 
-![&#x4E0D;&#x540C;&#x573A;&#x666F;&#x4E0B;&#x7684;&#x5F00;&#x53D1;&#x65B9;&#x5F0F;](../../.gitbook/assets/image%20%2812%29.png)
+![&#x4E0D;&#x540C;&#x573A;&#x666F;&#x4E0B;&#x7684;&#x5F00;&#x53D1;&#x65B9;&#x5F0F;](../../.gitbook/assets/image%20%2821%29.png)
 
 ### 1区：Simple
 

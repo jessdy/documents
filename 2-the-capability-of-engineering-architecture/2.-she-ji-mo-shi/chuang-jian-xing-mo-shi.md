@@ -34,7 +34,7 @@ description: 用于描述“怎样创建对象”，它的主要特点是“将�
 提供一个创建产品族的接口，其每个子类可以生产一系列相关的产品。
 {% endhint %}
 
-![Abstract Factory Class Diagram](../../.gitbook/assets/image%20%281%29.png)
+![Abstract Factory Class Diagram](../../.gitbook/assets/image%20%284%29.png)
 
 ### 建造者模式（Builder）
 
@@ -42,5 +42,5 @@ description: 用于描述“怎样创建对象”，它的主要特点是“将�
 将一个复杂对象分解成多个相对简单的部分，然后根据不同需要分别创建它们，最后构建成该复杂对象。
 {% endhint %}
 
-![Builder Class Diagram](../../.gitbook/assets/image%20%2811%29.png)
+![Builder Class Diagram](../../.gitbook/assets/image%20%2820%29.png)
 
