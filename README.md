@@ -39,5 +39,5 @@ description: 深入浅出的软件架构技术知识点
 
 
 
-![](../assets/5d4e306be4b09965fabdc48c-1.png)
+![](/.gitbook/assets/5d4e306be4b09965fabdc48c-1.png)
 
